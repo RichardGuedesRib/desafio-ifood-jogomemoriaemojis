@@ -56,8 +56,8 @@ h2 {
     gap: 10px;
     transform-style: preserve-3d;
     perspective: 500px;
-   
-  
+
+
 
 }
 
@@ -82,7 +82,7 @@ h2 {
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
-    opacity: 0.85;
+
 }
 
 .item.boxOpen {
