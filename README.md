@@ -8,4 +8,6 @@ Execução de Projeto proposto como desafio de curso do BootCamp de Desenvolvime
 
 ## Demonstração do Resultado Final
 
+[Acesse o projeto pronto aqui!](https://richardguedesrib.github.io/desafio-ifood-jogomemoriaemojis/)
+
 ![Screenshot_1](https://github.com/RichardGuedesRib/desafio-ifood-jogomemoriaemojis/assets/111194299/0b9edad3-e820-41b0-a629-ce5366ed065e)
